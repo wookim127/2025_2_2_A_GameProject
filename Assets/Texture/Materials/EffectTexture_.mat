@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-4505285885096063413
+--- !u!114 &-2159570576528834273
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Fx_Particle 1
-  m_Shader: {fileID: -6465566751694194690, guid: 0b4428883d8a6134cabff6e4f26ba58f,
+  m_Name: EffectTexture_
+  m_Shader: {fileID: -6465566751694194690, guid: 74c6e96ce4f2aac47979d545a534c818,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -55,8 +55,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Dissolve_1: 5
-    - _Emissive: 2
+    - _Dissolve_1: 0
+    - _Emissive: 1
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors: []
